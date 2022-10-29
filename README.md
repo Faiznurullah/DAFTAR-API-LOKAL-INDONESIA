@@ -149,6 +149,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Pururin                                    |    sinkaroid     |               [Link](https://github.com/sinkaroid/pururin)               | `Aktif` | API berfitur yang menampilkan doujin / komik hentai dari situs Pururin (Un-official)                                                               | Tidak dan `ApiKey` |
 | Jandapress                                 |    sinkaroid     |                [Link](https://github.com/sinkaroid/jandapress)           | `Aktif` | All-in-one doujinshi API with gather in mind.                                                                                                    | Tidak dan `ApiKey` |
 | RAZnime                                    |   Romadhonaji    |                  [Link](https://raznime.herokuapp.com/)                  | `Aktif` | API Streaming Anime Bahasa Inggris                                                                                                                 |       Tidak        |
+| Student Blue Archive                       |     arufars      |               [Link](https://github.com/arufars/api-blue-archive)  |         `Aktif`    | API (unofficial) berisi informasi data character dari game Blue Archive                                                                        | Tidak        |
 
 ### Jasa Pengiriman
 
@@ -261,6 +262,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | -------------------------- | :------------: | :----------------------------------------------------------------------------------: | :-----: | :------------------------------------- | :----: |
 | Data Sekolah API           | Ahmad Ramadhan | [Link](https://github.com/semogaBermanfaat-AhmadRamadhan/dataSekolahNegeriIndonesia) | `Aktif` | Data Sekolah Negeri di Indonesia       | Tidak  |
 | API Data Sekolah Indonesia |     Alwan      |              [Link](https://github.com/wanrabbae/api-sekolah-indonesia)              | `Aktif` | Data Data Sekolah di Indonesia Lengkap | Tidak  |
+| Data Mahasiswa Indonesia | Kemendikbud | [Link](https://api-frontend.kemdikbud.go.id/hit_mhs/abiel%20zulio%20maseida) | `Aktif` | Data mahasiswa se-Indonesia mencakupi nama lengkap, universitas, dan program studi | Tidak |
 
 ### Ramalan Cuaca
 
@@ -306,6 +308,7 @@ Kumpulan API tentang data dan informasi di Indonesia
 | Distrowatch API (unofficial) |         Zulfahmi         |                   [Link](https://github.com/Zzzul/diwa)                   | `Aktif` | API untuk mendapatkan informasi seputar Linux                                                                        |  Tidak   |
 | Face API                     |   Irfan Akbari Habibi    |          [Link](https://github.com/Irfanakbari/face-recognition)          | `Aktif` | API untuk mendeteksi wajah dalam gambar, mendapatkan UID untuk cek similarity(berguna untuk sistem face recognition) |  Tidak   |
 | PetPet GIF Generator API                     |   balhisyhrl    |          [Link](https://anon-petpet.herokuapp.com/)          | `Aktif` | API PetPet GIF Generator |  Tidak   |
+| Spam Call                 |         Rud Az           |            [Link](https://spamertelpon.herokuapp.com/)                    | `Aktif` | Api untuk spam call, per spam/telpon bisa beda² nomer.                                                               | `ApiKey`  |
 
 ### Crypto
 
